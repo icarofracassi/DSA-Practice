@@ -11,4 +11,4 @@ else:
     listaMerg.remove(j)
   print(" ".join(listaMerg) + " ")
 
-//incompleto?
+#incompleto?
