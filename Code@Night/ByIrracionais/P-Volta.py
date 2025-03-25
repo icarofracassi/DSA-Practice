@@ -1,0 +1,5 @@
+entradas = input().split(" ")
+n1 = int(entradas[0])
+n2 = int(entradas[1])
+volta = round(n2/(n2 - n1) + 0.5)
+print(volta)
