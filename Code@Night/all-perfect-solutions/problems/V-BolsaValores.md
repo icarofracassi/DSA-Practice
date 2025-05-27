@@ -1,4 +1,4 @@
-# Problem
+# Problem V
 
 Um investidor principiante deseja aprender a investir na bolsa de valores. Como ele não tem  experiência,  selecionou  uma  única  empresa,  e  acompanhou  os  valores  diários  das ações  dessa  empresa,  durante  N  dias.  Ficou  curioso  quanto  teria  ganhado  se  tivesse investido  nesse  período  em  que  acompanhou  os  valores.  Na  verdade,  o  investidor  é milionário e tem muito dinheiro, suficiente para comprar qualquer quantidade de ações da empresa. Entretanto, como é um investidor cuidadoso, decidiu que nunca teria mais do  que  uma  ação  da  empresa.  Como  sempre  há  intermediários,  a  corretora  de  valores cobra uma taxa fixa de C reais a cada compra de uma ação da empresa. Você deve calcular qual o lucro máximo que o investidor poderia ter auferido, investindo durante alguns dos N dias, podendo inclusive decidir não investir.
 
@@ -29,4 +29,5 @@ Seu  programa  deve  produzir  uma  única  linha  com  um  inteiro  representan
 
 ## Code
 
+![img](../pdfs/screenshots/V.png)
 [Go to code](../codes/V.py)

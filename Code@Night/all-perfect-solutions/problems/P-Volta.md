@@ -1,4 +1,4 @@
-# Problem
+# Problem P
 
 No  automobilismo  é  bastante  comum  que  o  líder  de  uma  prova,  em  determinado momento, ultrapasse o último colocado. O líder, neste momento, está uma volta à frente do  último  colocado,  que  se  torna,  assim,  um  retardatário.  Neste  problema,  dados  os tempos que o piloto mais rápido e o piloto mais lento levam para completar uma volta, você deve determinar em que volta o último colocado se tornará um retardatário, ou seja, será  ultrapassado  pelo  líder.  Você  deve  considerar  que,  inicialmente,  eles  estão  lado  a lado, na linha de partida do circuito, ambos  no início da volta de número 1  (a primeira volta da corrida); e que uma nova volta se inicia sempre depois que o líder cruza a linha de partida.
 
@@ -30,4 +30,5 @@ Seu programa deve produzir uma única linha, contendo um único inteiro: a volta
 
 ## Code
 
+![img](../pdfs/screenshots/P.png)
 [Go to code](../codes/P.py)

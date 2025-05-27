@@ -1,6 +1,6 @@
-# Problem
+# Problem C
 
-João  está  prestes  a  completar  dois  anos  de  contrato  na  SAP  e  está  bem  feliz com  seu trabalho. Ele gosta tanto de trabalhar que acabou esquecendo de  marcar suas férias e, por isso, recebeu uma notificação da sua gestora que ele precisa fazer isso o quanto antes! Contudo,  João  só  pode  tirar  férias  se  a  data  de  início  e  fim  não  sobrepor  as  datas  de nenhum outro colega de trabalho.
+João  está  prestes  a  completar  dois  anos  de  contrato  na  ***  e  está  bem  feliz com  seu trabalho. Ele gosta tanto de trabalhar que acabou esquecendo de  marcar suas férias e, por isso, recebeu uma notificação da sua gestora que ele precisa fazer isso o quanto antes! Contudo,  João  só  pode  tirar  férias  se  a  data  de  início  e  fim  não  sobrepor  as  datas  de nenhum outro colega de trabalho.
 
 Será que João vai conseguir tirar suas férias?
 
@@ -27,4 +27,5 @@ Seu programa deve imprimir uma única linha com a palavra “Sim”, caso João 
 
 ## Code
 
+![img](../pdfs/screenshots/C.png)
 [Go to code](../codes/C.py)

@@ -1,4 +1,4 @@
-# Problem
+# Problem H
 
 Juliano é fã do programa de auditório Apagando e Ganhando, um programa no qual os participantes são selecionados através de um sorteio e recebem prêmios em dinheiro por participarem.  No  programa,  o  apresentador  escreve  um  número  de  N dígitos  em  uma lousa.  O  participante  então  deve  apagar  exatamente  D dígitos  do  número  que  está  na lousa; o número formado pelos dígitos que restaram é então o prêmio do participante. Juliano  finalmente  foi  selecionado  para  participar  do  programa,  e  pediu  que  você escrevesse um programa que, dados o número que o apresentador escreveu na lousa, e quantos dígitos Juliano tem que apagar, determina o valor do maior prêmio que Juliano pode ganhar.
 
@@ -22,9 +22,7 @@ Para cada caso de teste da entrada seu programa deve imprimir uma única linha n
 | 1000000               |                       |
 | 0 0                   |                       |
 
-| Exemplo de entrada 2  | Exemplo de saída 2    |
-| --------------------- | --------------------- |
-
 ## Code
 
+![img](../pdfs/screenshots/H.png)
 [Go to code](../codes/H.py)

@@ -1,4 +1,4 @@
-# Problem
+# Problem U
 
 Um jogo de estratégia, com J jogadores, é jogado em volta de uma mesa. O primeiro a jogar  é  o  jogador  1,  o  segundo  a  jogar  é  o  jogador  2  e  assim  por  diante.  Uma  vez completada uma rodada, novamente o jogador 1 faz sua jogada e a ordem dos jogadores se repete. A cada jogada, um jogador garante uma certa quantidade de Pontos de Vitória. A pontuação de cada jogador consiste na soma dos Pontos de Vitória de cada uma das suas  jogadas.  Dado  o  número  de  jogadores,  o  número  de  rodadas  e  uma  lista representando  os  Pontos  de  Vitória  na  ordem  em  que  foram  obtidos,  você  deve determinar  qual  é  o  jogador  vencedor.  Caso  mais  de  um  jogador  obtenha  a  pontuação máxima, o jogador com pontuação máxima que tiver jogado por último é o vencedor.
 
@@ -24,4 +24,5 @@ Seu  programa  deve  produzir  uma  única  linha,  contendo  o  inteiro  corres
 
 ## Code
 
+![img](../pdfs/screenshots/U.png)
 [Go to code](../codes/U.py)

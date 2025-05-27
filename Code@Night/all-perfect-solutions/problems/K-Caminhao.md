@@ -1,4 +1,4 @@
-# Problem
+# Problem K
 
 A  Sociedade  de  Balões  Coloridos  (SBC)  é  a  principal  fornecedora  de  balões  para competições de programação; ela dispõe de grandes fábricas e depósitos, além de uma extensa  frota  de  caminhões  para  garantir  a  alegria  dos  competidores.  Há  várias  sedes regionais na Nlogônia, todas as quais contrataram a SBC para o fornecimento de balões para  a  prova.  A  Nlogônia  é  um  arquipélago  ligado  por  várias  pontes.  Cada  ilha  do arquipélago pode conter várias sedes regionais e vários depósitos da SBC. Ao planejar as rotas,  a  SBC  se  deparou  com  um  problema:  por  razões  de  segurança,  cada  ponte  da Nlogônia tem um limite máximo de peso permitido para os veículos que trafegam sobre ela. Devido ao grande número de pontes na Nlogônia, e ao elevado peso da mercadoria transportada, o diretor de operações da SBC pediu que você escrevesse um programa que determina o maior peso bruto que pode ser transportado entre os depósitos e os locais de prova.
 
@@ -46,4 +46,5 @@ Para cada sede, na ordem em que elas foram descritas  na entrada, seu programa d
 
 ## Code
 
+![img](../pdfs/screenshots/K.png)
 [Go to code](../codes/K.py)

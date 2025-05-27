@@ -1,6 +1,6 @@
-# Problem
+# Problem A
 
-Your colleague Nathália has a training scheduled to take place in person at SAP Labs and needs your help finding the room for her appointment. She received a code with 4 characters (GE02) that represents the location of the room.
+Your colleague Nathália has a training scheduled to take place in person at *** Labs and needs your help finding the room for her appointment. She received a code with 4 characters (GE02) that represents the location of the room.
 
 You know that there are 4 possible floors, which are: (B=basement, G=ground, 1=first, 2=second). In addition, there are 10 sectors represented by letters of the alphabet from A to J. Finally, the rooms numbers are integers ranging from 01 to 20.
 
@@ -26,4 +26,5 @@ For each input test case, your program must print a single line containing the l
 
 ## Code
 
+![img](../pdfs/screenshots/A.png)
 [Go to code](../codes/A.py)

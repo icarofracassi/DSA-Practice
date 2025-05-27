@@ -1,6 +1,6 @@
-# Problem
+# Problem G
 
-Na  SAP  você  pode  agendar  uma  massagem  de  10  minutos  toda  semana.  As  vagas  são limitadas, sendo que o primeiro horário inicia às 14:00 e o último termina às 18:00, de segunda a sexta. A inscrição é disponibilizada semanalmente às 13h da segunda-feira.
+Na  ***  você  pode  agendar  uma  massagem  de  10  minutos  toda  semana.  As  vagas  são limitadas, sendo que o primeiro horário inicia às 14:00 e o último termina às 18:00, de segunda a sexta. A inscrição é disponibilizada semanalmente às 13h da segunda-feira.
 
 Nas  últimas  semanas  têm  sido  difíceis  conseguir  um  horário,  pois  as  vagas  são preenchidas  muito  rapidamente.  Devido  a  isto,  você  precisa  criar  um  programa  para encontrar o primeiro horário disponível, desde que você não tenha outro compromisso na agenda.
 
@@ -35,4 +35,5 @@ Para cada caso de teste, seu programa deve imprimir uma linha única contendo o 
 
 ## Code
 
+![img](../pdfs/screenshots/G.png)
 [Go to code](../codes/G.py)

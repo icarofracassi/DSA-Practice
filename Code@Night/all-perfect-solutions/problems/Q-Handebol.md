@@ -1,4 +1,4 @@
-# Problem
+# Problem Q
 
 Frustrado  e  desanimado  com  os  resultados  de  sua  equipe  de  futebol,  o  Super Brasileiro  Clube (SBC)  resolveu  investir  na  equipe  de  handebol.  Para  melhor  avaliar  os  atletas,  os  técnicos identificaram  que  seria  útil  analisar  a  regularidade  dos  jogadores.  Especificamente,  eles  estão interessados em saber quantos jogadores fizeram gols em todas as partidas. Como o volume de dados  é  muito  grande,  eles  gostariam  de  ter  um  programa  de  computador  para  realizar  essa contagem.
 
@@ -39,4 +39,5 @@ Seu programa deve produzir uma única linha, contendo um único inteiro, o núme
 
 ## Code
 
+![img](../pdfs/screenshots/Q.png)
 [Go to code](../codes/Q.py)

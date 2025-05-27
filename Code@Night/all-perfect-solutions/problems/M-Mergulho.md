@@ -1,4 +1,4 @@
-# Problem
+# Problem M
 
 O recente terremoto  em Nlogônia não chegou a  afetar muito as  edificações  da capital, principal  epicentro  do  abalo.  Mas  os  cientistas  detectaram  que  o  principal  dique  de contenção teve um dano significativo na sua parte subterrânea que, se não for consertado rapidamente,  pode  causar  o  seu  desmoronamento,  com  a  consequente  inundação  de toda a capital. O conserto deve ser feito por mergulhadores, a uma grande profundidade, em condições extremamente difíceis e perigosas. Mas como é a sobrevivência da própria cidade que está em jogo, seus moradores acudiram em grande número como voluntários para essa perigosa missão. Como é tradicional em missões perigosas, cada mergulhador recebeu no início do mergulho uma pequena placa com um número de identificação. Ao terminar o mergulho, os voluntários devolviam a placa de identificação, colocando-a em um repositório. O dique voltou a ser seguro, mas aparentemente alguns voluntários não voltaram  do  mergulho.  Você  foi  contratado  para  a  penosa  tarefa  de,  dadas  as  placas colocadas  no  repositório,  determinar  quais  voluntários  perderam  a  vida  salvando  a cidade.
 
@@ -24,4 +24,5 @@ Seu programa deve produzir uma única linha, contendo os identificadores dos vol
 
 ## Code
 
+![img](../pdfs/screenshots/M.png)
 [Go to code](../codes/M.py)
