@@ -40,6 +40,7 @@ for in_file in input_files:
         expected_output = f.read()
 
     if result.stdout.strip() != expected_output.strip():
+        print(f"falhou: {in_file}")
         all_passed = False
 
 if all_passed:

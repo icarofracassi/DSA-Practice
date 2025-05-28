@@ -1,4 +1,4 @@
-# Problem
+# Problem L
 
 Uma das principais dificuldades de organizar uma Maratona de Programação é recolher os balões que escapam e ficam presos no teto do salão: muitas vezes o contrato com o dono do salão exige que este seja entregue limpo logo após o evento, sob pena de multa. Este ano a organização da Maratona está mais previdente: ela tem o desenho do teto do salão,  e  quer  sua  ajuda  para  determinar  o  que  pode  acontecer  com  um  balão, dependendo da posição no solo onde ele é solto (isto é, se é bloqueado pelo teto ou se escapa para o exterior do salão). O teto do salão é formado por vários planos que, vistos de lado, podem ser descritos por segmentos de reta.
 
@@ -48,4 +48,5 @@ Para cada consulta da entrada, seu programa deve imprimir uma única linha. Se o
 
 ## Code
 
+![img](../pdfs/screenshots/L.png)
 [Go to code](../codes/L.py)

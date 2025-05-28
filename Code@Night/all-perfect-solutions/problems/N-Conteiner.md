@@ -1,4 +1,4 @@
-# Problem
+# Problem N
 
 Um carregamento de Nlogs, principal produto de exportação de Nlogônia, está no porto, em  contêineres,  pronto  para  ser  embarcado.  Todos  os  contêineres  têm  as  mesmas dimensões e são cubos. Os contêineres estão organizados no pátio do porto em L linhas e C colunas, num total de LC contêineres. Cada contêiner está marcado com um número de identificação distinto, de 1 a LC. Cada uma das L linhas de contêineres será embarcada em  um  navio  distinto.  Para  facilitar  o  desembarque  nos  diversos  países  em  que  serão entregues,  os  contêineres  de  uma  linha  devem  estar  organizados  de  forma  que  os números de identificação estejam ordenados. Mais precisamente, a linha 1 foi organizada no  pátio  de  forma  a  conter  os  contêineres  identificados  de  1  a  C  ordenados crescentemente,  a  linha  2  de  forma  a  conter  os  contêineres  de  C  +  1  a  2C  (ordenados crescentemente),  e  assim  por  diante,  até  a  linha  L,  organizada  de  forma  a  conter  os contêineres de (L − 1)C + 1 a LC (ordenados crescentemente).
 
@@ -38,4 +38,5 @@ Seu  programa  deve  produzir  uma  única  linha,  contendo  um  único  inteir
 
 ## Code
 
+![img](../pdfs/screenshots/N.png)
 [Go to code](../codes/N.py)

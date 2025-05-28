@@ -1,6 +1,6 @@
-# Problem
+# Problem F
 
-Hoje  o  seu  time  de  trabalho  na  SAP  decidiu  fazer  a  reunião  da  daily  de  uma  forma diferente!  Os  membros  do  time  estão  espalhados  pelo  labs,  cada  um  em  um  local diferente, e vocês decidiram que a daily vai ser feita a partir dos coffee-corners!
+Hoje  o  seu  time  de  trabalho  na  ***  decidiu  fazer  a  reunião  da  daily  de  uma  forma diferente!  Os  membros  do  time  estão  espalhados  pelo  labs,  cada  um  em  um  local diferente, e vocês decidiram que a daily vai ser feita a partir dos coffee-corners!
 
 Para isso, cada membro do time irá se deslocar até o seu coffee-corner mais próximo e participar da reunião remotamente. Além disso, foi combinado que o primeiro membro a chegar  em  um  coffee-corner  será  o  que  vai  compartilhar  a  tela  do  seu  notebook  e conduzir a daily.
 
@@ -33,4 +33,5 @@ Seu programa deve imprimir uma única linha contendo um número inteiro, indican
 
 ## Code
 
+![img](../pdfs/screenshots/F.png)
 [Go to code](../codes/F.py)

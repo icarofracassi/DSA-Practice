@@ -1,6 +1,6 @@
-# Problem
+# Problem D
 
-A equipe de RH da SAP teve uma ideia de atrair novos talentos e  promoveu um evento para  os  participantes  da  Maratona  de  Programação.  Com  isso,  foram  organizadas palestras, tours pelo Labs, entre outras atividades. E no meio de tudo isso, será feita uma pausa  para  o  lanche,  ou  coffee  break.  Foram  disponibilizadas  várias  opções,  incluindo sanduíches  em  formatos  circulares  e  triangulares,  representados  por  0  e  1, respectivamente.  As  pessoas  que  optarem  pelo  sanduíche,  deverão  formar  uma  fila  e esperar a sua vez. Os sanduíches estão organizados como se fossem uma pilha. A ordem para pegar um sanduíche é a seguinte:
+A equipe de RH da *** teve uma ideia de atrair novos talentos e  promoveu um evento para  os  participantes  da  Maratona  de  Programação.  Com  isso,  foram  organizadas palestras, tours pelo Labs, entre outras atividades. E no meio de tudo isso, será feita uma pausa  para  o  lanche,  ou  coffee  break.  Foram  disponibilizadas  várias  opções,  incluindo sanduíches  em  formatos  circulares  e  triangulares,  representados  por  0  e  1, respectivamente.  As  pessoas  que  optarem  pelo  sanduíche,  deverão  formar  uma  fila  e esperar a sua vez. Os sanduíches estão organizados como se fossem uma pilha. A ordem para pegar um sanduíche é a seguinte:
 
 - Se  a  primeira  pessoa  da  fila  optou  pelo  tipo  de  sanduíche  que  está  no  topo  da pilha, ele pega o sanduíche e sai da fila.
 - Se não é o sanduíche que ele optou, ele não pega o sanduíche e volta para o final da fila.  
@@ -36,4 +36,5 @@ A  saída  consiste  em  uma  única  linha  contendo  um  único  inteiro,  com
 
 ## Code
 
+![img](../pdfs/screenshots/D.png)
 [Go to code](../codes/D.py)
