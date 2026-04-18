@@ -1,0 +1,14 @@
+- how would you characterize their audio aura?
+Considering the AVG values fors:
+    energy is 0.66
+    valence is 0,48
+    danceability is 0,71
+
+The listener would have the audio aura of orange, which is a high-energy profile, because energy and danceability are high values!
+
+
+- What better ways of calculating this aura would you propose?:
+Not taking the 100 most listened songs, but only the top 5% of the songs they most listened too (100x listened the same music counts more than 1x listened music)
+Not only that, but making the use of a different average than the mean, and taking the median average instead. Because one song with low score/out of curve would be superevaluated by the mean average, and not by the median average
+
+Thank you all for making this course, it is the greatest online course available on the internet ever! :)

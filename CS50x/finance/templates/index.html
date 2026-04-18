@@ -1,0 +1,30 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Index
+{% endblock %}
+
+{% block main %}
+<table>
+    <thead>
+        <tr>
+            <th>Symbol</th>
+            <th>Shares</th>
+            <th>Price Bought</th>
+            <th>Current Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for value in values %}
+            <tr>
+                <td>{{ value.symbol }}</td>
+                <td>{{ value.total_shares}}</td>
+                <td>{{ value.total_value | usd}}</td>
+                <td>{{ value.current_value | usd}}</td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+<div>Current wallet amount: {{ currentCash | usd}}</div>
+{% endblock %}

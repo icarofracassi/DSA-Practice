@@ -1,0 +1,11 @@
+sort1 uses: Bubble
+
+How do you know?: In the bigger file, it took less time in the sorted one than the random and reversed
+
+sort2 uses: Merge
+
+How do you know?: Took almost the same time to do every list, and it was fast
+
+sort3 uses: Selection
+
+How do you know?: Took almost the same time to do every list, and it was slow

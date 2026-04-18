@@ -1,0 +1,24 @@
+Hello CS50 Team,
+
+Here are the 10 HTML tags:
+1. li
+2. ul
+3. div
+4. h2
+5. h3
+6. p
+7. ol
+8. a
+9. nav
+10. button
+
+CSS Properties:
+1. font-family
+2. font-size
+3. max-width
+4. max-heigth
+5. margin
+
+One sentence on how I used javascript and bootstrap:
+Dude bootstrap is actually amazing, I didn't know there was such a great library, I used the cards and dropdown components.
+I used javascript to show a gif when clicking cheers or any other button in projects cards
