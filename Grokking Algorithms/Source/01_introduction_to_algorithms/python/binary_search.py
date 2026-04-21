@@ -1,3 +1,36 @@
+class icaroBinarySearch():
+   def search_iterative(self, list, target):
+    low = 0
+    high = len(list)-1
+    while low <= high:
+        mid = (high + low) // 2
+        found = list[mid]
+        if found == target:
+            return mid
+        
+        if found > target:
+            high = mid - 1
+
+        if found < target:
+            low = mid + 1
+        
+    return None
+    
+   
+   def search_recursive(self, list, low, high, target):
+    if low <= high:
+        mid = (low + high) // 2
+        found = list[mid]
+        if found == target:
+            return mid
+        if found < target:
+            return self.search_recursive(list, mid+1, high, target)
+
+        if found > target: 
+            return self.search_recursive(list, low, mid-1, target)    
+    else:
+        return None
+
 class BinarySearch():
 
   def search_iterative(self, list, item):
@@ -49,7 +82,8 @@ class BinarySearch():
 
 if __name__ == "__main__":
   # We must initialize the class to use the methods of this class
-  bs = BinarySearch()
+  #bs = BinarySearch()
+  bs = icaroBinarySearch()
   my_list = [1, 3, 5, 7, 9]
   
   print(bs.search_iterative(my_list, 3)) # => 1

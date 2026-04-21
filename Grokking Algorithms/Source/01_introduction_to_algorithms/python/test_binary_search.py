@@ -1,9 +1,9 @@
-from binary_search import BinarySearch
+from binary_search import icaroBinarySearch
 import unittest
 import json
 import time
 
-bs = BinarySearch()
+bs = icaroBinarySearch()
 
 # Unloading all lists from a file
 with open("items.json", "r") as file:
@@ -101,7 +101,6 @@ class TestBinarySearch(unittest.TestCase):
     # print("--- Time required to search item at the beginning ---")
     # print("--- Linear Search %f seconds ---" % (ls_time))
     # print("--- Binary Search %f seconds ---" % (bs_time))
-
   
 if __name__ == '__main__':
     unittest.main()
